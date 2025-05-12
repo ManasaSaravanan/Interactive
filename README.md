@@ -1,7 +1,5 @@
 # Ex.08 Design of Interactive Image Gallery
 ## Date:12/05/2025
-## Name: Ezhil Nevedha K
-## Reg No: 212223230055
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
 
